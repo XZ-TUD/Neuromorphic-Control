@@ -100,20 +100,6 @@ single_HCO
 
 These additional scripts explore how changes in synaptic and adaptation timescales affect the oscillatory behavior and torque generation of the HCO network. By tuning `tau_s` and `tau_us`, users can investigate network responsiveness, rhythm stability, and phase shifts—providing insights into biologically inspired motor control and temporal processing.
 
----
-
-## 📚 Citation
-
-If you use or adapt this model, please cite the original paper:
-
-```
-@article{schmetterling2024neuromorphic,
-  title={Neuromorphic control of a pendulum},
-  author={Schmetterling, Raphael and others},
-  journal={IEEE Control Systems Letters},
-  year={2024}
-}
-```
 
 ---
 
