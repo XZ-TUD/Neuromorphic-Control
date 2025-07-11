@@ -1,7 +1,5 @@
----
 
-````markdown
-# 🌀 Pulse-Based Neuromorphic Pendulum Control
+# 🌀 Pulse-Based Pendulum Control
 
 This repository contains a set of MATLAB scripts exploring **pulse-based and PD-based control strategies** for a simple pendulum system. The goal is to investigate how different control paradigms—neuromorphic pulses, energy-based switching, and classical PD control—can be used to swing, stabilize, or manipulate a pendulum.
 
