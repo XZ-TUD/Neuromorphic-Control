@@ -103,7 +103,7 @@ Each script is self-contained and includes clear parameter definitions. Use the 
 
 ## 🧠 Why Pulse Control?
 
-Pulse-based control mimics how biological motor systems generate bursts of force through **spiking neurons** and **timing-based feedback**. These scripts provide insight into how simple timing rules can lead to complex motor outcomes—offering an alternative to traditional continuous feedback controllers.
+Pulse-based control mimics how biological motor systems generate bursts of force through **spiking pulse** and **timing-based feedback**. These scripts provide insight into how simple timing rules can lead to complex motor outcomes—offering an alternative to traditional continuous feedback controllers.
 
 ---
 
@@ -112,14 +112,4 @@ Pulse-based control mimics how biological motor systems generate bursts of force
 For questions or contributions, please open an issue or contact the repository maintainer.
 
 ---
-
-```
-
-Let me know if you'd like:
-- Markdown with clickable links to scripts (if hosted on GitHub)
-- A table comparing energy efficiency of each method
-- Code refactoring to modularize shared components (like pendulum dynamics)
-
-I'm happy to help further!
-```
 
