@@ -1,8 +1,13 @@
+Here is your updated `README.md` file with the requested **"Other Code"** section added seamlessly at the end:
+
+---
+
+````markdown
 # Half-Center Oscillator (HCO) Model for Neuromorphic Pendulum Control
 
 This repository contains a MATLAB implementation of a **2-neuron Half-Center Oscillator (HCO)** model used to generate torque signals for pendulum control. The system is based on the neural control structure described in:
 
-> Schmetterling, Raphael, et al. **Neuromorphic control of a pendulum.** , IEEE Control Systems Letters* (2024).
+> Schmetterling, Raphael, et al. **Neuromorphic control of a pendulum.** *IEEE Control Systems Letters* (2024).
 
 ---
 
@@ -87,15 +92,38 @@ To test variations, you can change `rate_idx` to select a different value of `a�
 In MATLAB:
 ```matlab
 single_HCO
+````
 
----
 ---
 
 ## 🧩 Other Code
 
-- "Vary_tau_s.m ": Scripts with varied `tau_s` (synaptic time constant)
-- "Vary_tau_us.m ": Scripts with varied `tau_us` (ultra-slow adaptation constant)
+* `HCO_vary_tau_s.m`: Script with varied `tau_s` (synaptic time constant)
+* `HCO_vary_tau_us.m`: Script with varied `tau_us` (ultra-slow adaptation constant)
+* `HCO_tune_pulse_phase.m`: Script to explore pulse timing and coordination
 
-These two scripts explore how changes in synaptic and adaptation timescales affect the oscillatory behavior and torque generation of the HCO network. By tuning `tau_s` and `tau_us`, users can investigate network responsiveness, rhythm stability, and phase shifts—providing insights into biologically inspired motor control and temporal processing.
+These additional scripts explore how changes in synaptic and adaptation timescales affect the oscillatory behavior and torque generation of the HCO network. By tuning `tau_s` and `tau_us`, users can investigate network responsiveness, rhythm stability, and phase shifts—providing insights into biologically inspired motor control and temporal processing.
 
 ---
+
+## 📚 Citation
+
+If you use or adapt this model, please cite the original paper:
+
+```
+@article{schmetterling2024neuromorphic,
+  title={Neuromorphic control of a pendulum},
+  author={Schmetterling, Raphael and others},
+  journal={IEEE Control Systems Letters},
+  year={2024}
+}
+```
+
+---
+
+## 📬 Contact
+
+For questions or collaboration, feel free to reach out to the project authors or submit an issue.
+
+---
+
