@@ -1,6 +1,8 @@
 % single_HCO.m
 % MATLAB implementation of a 2-neuron Half-Center Oscillator (HCO) model
 % Simulates neural dynamics and torque generation using a system of ODEs
+% Fig.2 in [Schmetterling, Raphael, et al. "Neuromorphic control of a
+% pendulum." IEEE Control Systems Letters (2024).]
 
 clear; clc;  
 %close all;% Clear workspace and command window
