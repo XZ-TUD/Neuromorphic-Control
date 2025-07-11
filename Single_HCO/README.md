@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Half-Center Oscillator (HCO) Model for Neuromorphic Pendulum Control
 
