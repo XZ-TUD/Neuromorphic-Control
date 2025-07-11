@@ -19,7 +19,7 @@ The simulation illustrates:
 
 ## 📁 Files
 
-### `single_HCO.m`
+### `Single_HCO.m`
 - Main script simulating the 2-neuron HCO
 - Implements nonlinear ODE dynamics, time-varying inputs, and torque generation
 - Saves output to `single_HCO.mat`
@@ -88,6 +88,7 @@ In MATLAB:
 ```matlab
 single_HCO
 
+---
 ---
 
 ## 🧩 Other Code
