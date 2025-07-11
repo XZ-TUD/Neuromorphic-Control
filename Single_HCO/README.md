@@ -90,6 +90,11 @@ single_HCO
 
 ---
 
-# Other Code #
-- Scripts with varied `tau_s` (synaptic time constant)
-- Scripts with varied `tau_us` (ultra-slow adaptation constant)
+## 🧩 Other Code
+
+- "Vary_tau_s.m ": Scripts with varied `tau_s` (synaptic time constant)
+- "Vary_tau_us.m ": Scripts with varied `tau_us` (ultra-slow adaptation constant)
+
+These two scripts explore how changes in synaptic and adaptation timescales affect the oscillatory behavior and torque generation of the HCO network. By tuning `tau_s` and `tau_us`, users can investigate network responsiveness, rhythm stability, and phase shifts—providing insights into biologically inspired motor control and temporal processing.
+
+---
